@@ -1,7 +1,6 @@
-### Hello, I'm Kiki (she/her)
+### Hello, I'm Kiki
 
-- I’m currently learning TypeScript
-- Recent graduate from Software Development Bootcamp at Makers Academy
-- I like to make stuff. [Click here to see my most recent creation](https://kikidawson.medium.com/h1-zine-h1-95f27309a0c8)
+- I’m a platform engineer, currently learning networking and kubes.
+- 2021 graduate from Software Development Bootcamp at Makers Academy.
 
 [Click me for a CV](https://github.com/kikidawson/CV/blob/master/README.md)
